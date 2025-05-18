@@ -1,0 +1,7 @@
+{
+    "require": {
+        "laravel/jetstream": "^5.3",
+        "livewire/livewire": "^3.6",
+        "spatie/laravel-permission": "^6.18"
+    }
+}
